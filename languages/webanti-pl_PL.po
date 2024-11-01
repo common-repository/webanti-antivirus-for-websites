@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-02-04 23:40+0100\n"
+"PO-Revision-Date: 2017-02-04 23:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: webanti\n"
+
+msgid "Simple integration with webanti."
+msgstr "Szybka integracja z Webanti."
+
+msgid "Are you sure about removing webanti module?"
+msgstr "Na pewno chcesz usunąć moduł Webanti?"
+
+msgid "No Webanti key provided."
+msgstr "Brak klucza Webanti!"
+
+msgid "Catalog \"quarantine\" not exists or is not writable."
+msgstr "Katalog \"quarantine\" nie istnieje lub nie posiada uprawień do zapisu."
+
+msgid "You must verify your account. Link to verify has been sent to your e-mail address."
+msgstr "Musisz zweryfikować swoje konto. Link weryfikacyjny został wysłany na adres e-mail podany przy rejestracji."
+
+msgid "Invalid API KEY."
+msgstr "Niepoprawny klucz API."
+
+msgid "Scanner is installed, but site has been stopped in Webanti app."
+msgstr "Skaner jest zainstalowany, lecz ochrona została zatrzymana dla tej strony w aplikacji Webanti."
+
+msgid "Scanner is installed!"
+msgstr "Skaner jest zainstalowany!"
+
+msgid "Scanner is not installed."
+msgstr "Skaner nie jest zainstalowany."
+
+msgid "Failed automatically install scanner."
+msgstr "Nie powiodła się próba automatycznego zainstalowania skanera."
+
+msgid "Error. Code #"
+msgstr "Błąd. Kod #"
+
+msgid "Invalid e-mail address."
+msgstr "Niepoprawny adres e-mail."
+
+msgid "Accept the Terms and the Privacy Policy of Webanti is required."
+msgstr "Akceptacja regulaminu i polityki prywatności Webanti jest wymagana."
+
+msgid "Max domains. Upgrade your plan in Webanti."
+msgstr "Twoje konto posiada maksymalną liczbę domen. Zwiększ swój plan w aplikacji Webanti."
+
+msgid "Website exists."
+msgstr "Strona jest już zarejestrowana."
+
+msgid "We cannot create user and add website."
+msgstr "Nie powiodła się próba utworzenia użytkownika i dodania strony."
+
+msgid "Connect with Webanti"
+msgstr "Połącz z Webanti"
+
+msgid "Website is registered in Webanti. Enter website API KEY for connect."
+msgstr "Strona jest zarejestrowana. Wprowadź klucz API, aby zainstalować skaner."
+
+msgid "Connect"
+msgstr "Połącz"
+
+msgid "Sign up to Webanti"
+msgstr "Dołącz do Webanti"
+
+msgid "Website is not registered in Webanti. Enter your e-mail address to register or add the page to make your Account."
+msgstr "Strona nie jest zarejestrowana. Wprowadź adres e-mail, aby założyć konto lub dodać tę stronę do istniejącego konta."
+
+msgid "E-mail address"
+msgstr "E-mail address"
+
+msgid "Terms and the Privacy Policy"
+msgstr "Regulamin i polityka prywatności."
+
+msgid "I accept the Terms and the Privacy Policy of Webanti."
+msgstr "Akceptuję regulamin i politykę prywatności Webanti."
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Register"
+msgstr "Zarejestruj"
+
+msgid "Sign in to Webanti"
+msgstr "Zaloguj się do Webanti"
+
+msgid "Scanner status"
+msgstr "Status skanera"
+
+msgid "Website status"
+msgstr "Status strony"
+
+msgid "User plan"
+msgstr "Aktualny plan"
+
+msgid "Plan expires"
+msgstr "Plan wygasa"
+
+msgid "Installed"
+msgstr "Zainstalowany"
+
+msgid "Not installed"
+msgstr "Nie zainstalowany"
+
+msgid "Active"
+msgstr "Aktywna"
+
+msgid "Pause"
+msgstr "Zatrzymana"
+
+msgid "Unregistered"
+msgstr "Niezarejestrowany"
+
+msgid "Upgrade plan"
+msgstr "Uaktualnij plan"
+
+msgid "Everyone agrees that prevention is better than cure. This also applies to the security of websites. Number of cybercrime incidents involving hackers’ attacks and their malicious software increase every year. Malware, ransomware, backdoor – the list is long. Fortunately, there are effective methods of preventing them. Check how Webanti will take care of your website security."
+msgstr "Jak mówią – lepiej zapobiegać niż leczyć. Dotyczy to także bezpieczeństwa stron internetowych. Każdego roku zwiększa się ilość cyberprzestępstw wynikających z działalności hakerów bądź szkodliwego oprogramowania przez nich tworzonego. Wirusy/malware, ransomware, backdoor – lista zagrożeń jest długa. Na szczęście istnieją skuteczne sposoby zapobiegania im. Sprawdź, jak o bezpieczeństwo Twojej strony zadba Webanti."
+
+msgid "Webanti is an antivirus software, which provides real-time protection of your website and in case of detection dangerous events webmaster is instantly warned."
+msgstr "Webanti to oprogramowanie antywirusowe, które umożliwia ochronę witryny internetowej w czasie rzeczywistym, a w przypadku próby ataku przez hakerów poinformuje właściciela strony."
+
+msgid "Are you interested? You can try Webanti protection for free. Our customer support is ready to help you 24/7."
+msgstr "Jesteś zainteresowany? Narzędzie Webanti możesz przetestować za darmo. W razie pomocy możesz także skorzystać z pomocy naszych konsultantów – 7 dni w tygodniu, przez całą dobę, przez cały rok."
+
+msgid "Trust our specialists and start effectively secure your website. Try Webanti today!"
+msgstr "Zaufaj wiedzy specjalistów i zacznij skutecznie chronić swoją stronę – sprawdź Webanti."

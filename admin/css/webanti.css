@@ -1,0 +1,71 @@
+#webanti_configuration a {
+    text-decoration: none;
+}
+
+#webanti_configuration .logo {
+    background:#1bba9f;
+    padding:10px 15px;
+}
+
+#webanti_configuration .sign-in {
+    display:block;
+    background:#02100d;
+    color:#fff;
+    float:right;
+    font-size:18px;
+    padding:7px 15px;
+    border-radius: 7px;
+}
+
+#webanti_configuration .clearfix {
+    clear: both;
+}
+
+#webanti_configuration .box-body {
+    padding: 10px;
+    margin-top: 15px;
+    background: #eee;
+}
+
+#webanti_configuration .info table {
+    width: 100%;
+    margin-bottom:10px;
+    border: none;
+    border-collapse: collapse;
+}
+
+#webanti_configuration .info table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+#webanti_configuration .info table th {
+    text-align: center;
+    vertical-align: bottom;
+    padding: 12px 10px;
+    font-size: 14px;
+    background: #0a8671;
+    font-weight: 100;
+    color: #fff;
+}
+
+#webanti_configuration .info table td a.upgrade-plan,
+#webanti_configuration .error {
+    color: #e01414;
+}
+#webanti_configuration .dynamic-content .button a {
+    margin: 0;
+    border: 1px solid #1CBBA0;
+}
+#webanti_configuration .webantiPlanContainer .button {
+    border: none;
+    background: transparent;
+    -webkit-box-shadow: 0 0 0 #000;
+    box-shadow: 0 0 0 #000;
+}
+
+#webanti_configuration .dynamic-content {
+    margin:0;
+    padding:0;
+}
